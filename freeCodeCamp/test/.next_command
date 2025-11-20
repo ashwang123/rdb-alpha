@@ -91,3 +91,9 @@ mv footer.jpeg client/assets/images
 mv footer.jpeg images
 mv footer.jpeg client/assets/images
 mv images/footer.jpeg client/assets/images
+ls --color=auto
+less
+ls --color=auto -a
+ls --color=auto -l
+find -name images
+find

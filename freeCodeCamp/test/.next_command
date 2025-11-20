@@ -118,3 +118,4 @@ mv icons CodeAlly.svg
 mv CodeAlly.svg client/assets/icons
 less
 find
+mv CodeRoad.svg client/assets/icons

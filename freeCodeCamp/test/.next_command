@@ -41,3 +41,5 @@ find
 find
 find
 cd src
+find
+mv index.js client/src

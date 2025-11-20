@@ -111,3 +111,8 @@ ls --color=auto
 mkdir icons/assets
 mkdir icons/client/assets
 mkdir client/assets/icons
+mv CodeAlly.svg icons
+mv CodeAlly.svg client/assets/icons
+ls --color=auto
+mv icons CodeAlly.svg
+mv CodeAlly.svg client/assets/icons

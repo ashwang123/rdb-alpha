@@ -82,3 +82,4 @@ find -name
 find -images
 find -name client
 find -name images
+mv header.png client/assets/images

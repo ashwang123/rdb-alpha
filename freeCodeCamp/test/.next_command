@@ -102,3 +102,12 @@ rmdir website/images
 rm images/background.jpg
 rmdir images
 ls --color=auto
+touch icon/assets
+touch icons
+mv icons assets
+ls --color=auto
+rm assets
+ls --color=auto
+mkdir icons/assets
+mkdir icons/client/assets
+mkdir client/assets/icons

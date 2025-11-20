@@ -97,3 +97,4 @@ ls --color=auto -a
 ls --color=auto -l
 find -name images
 find
+rmdir images

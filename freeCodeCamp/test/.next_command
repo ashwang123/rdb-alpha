@@ -32,3 +32,5 @@ mv index.js src
 mv index.js client/src
 mv index.js client/src
 find
+ls --color=auto
+find

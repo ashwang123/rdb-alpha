@@ -2,3 +2,18 @@ mv roboto.woff fonts
 5e052805f67ffc991e2a7b4344a1ebe76b16456d
 mv roboto.woff fonts
 d23779836ef8f26010b016636f308307d6de1476
+mv roboto.woff fonts
+freeCodeCamp/test/.next_command
+modified: freeCodeCamp/test/.cwd
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+/freeCodeCamp/test/.next_command
+740.1
+mv roboto.woff fonts
+ls --color=auto
+cd website
+ls --color=auto
+mkdir fonts
+ls --color=auto
+mv roboto.woff fonts

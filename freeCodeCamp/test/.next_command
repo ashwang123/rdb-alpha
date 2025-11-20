@@ -76,3 +76,4 @@ cd website
 cd.
 cd..
 cd ..
+ls --color=auto

@@ -98,3 +98,5 @@ ls --color=auto -l
 find -name images
 find
 rmdir images
+rmdir website/images
+rm images/background.jpg

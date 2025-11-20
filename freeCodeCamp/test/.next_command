@@ -100,3 +100,4 @@ find
 rmdir images
 rmdir website/images
 rm images/background.jpg
+rmdir images

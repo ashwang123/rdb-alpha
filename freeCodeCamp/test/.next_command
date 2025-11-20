@@ -62,3 +62,4 @@ find -file
 find
 cd client
 mkdir assets
+cd assets

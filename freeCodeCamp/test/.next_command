@@ -60,3 +60,4 @@ ls --color=auto -a
 ls --color=auto -l
 find -file
 find
+cd client

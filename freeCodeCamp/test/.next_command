@@ -61,3 +61,4 @@ ls --color=auto -l
 find -file
 find
 cd client
+mkdir assets

@@ -77,3 +77,8 @@ cd.
 cd..
 cd ..
 ls --color=auto
+find images
+find -name
+find -images
+find -name client
+find -name images
